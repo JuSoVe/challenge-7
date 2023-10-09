@@ -1,0 +1,13 @@
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+
+}
+
+body    {
+    background-color: aqua;
+}
+
+nav ul {    
+    list-style-type: none;
+}
