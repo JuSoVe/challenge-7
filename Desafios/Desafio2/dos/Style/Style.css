@@ -1,0 +1,25 @@
+
+html {
+    background-color: #289688;
+    font-size: 16px;
+}
+
+header {
+    color: #FCEA3E;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+}
+
+.image-galery {
+    border: 8px solid #FFFFFF;
+    height: 150px;
+    margin: 4px;    
+}
+
+
+.image {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+}
