@@ -1,3 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+NKo+Unjoined&family=Roboto:wght@300&display=swap');
+
 html{
     font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.image-logo {
+
+    height: 200px;
+    
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: #BB5194;
+    font-size: 2.5rem;
+    font-family: 'Noto Sans NKo Unjoined', sans-serif;
+    font-weight: 300;
+    letter-spacing: 20px;
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+h2 {
+    color: #BB5194;
+    font-size: 1rem;
+    letter-spacing: 10px;
+
+}
+
+p {
+    color: #3964A8;
+
+}
+
+.image-galery{
+
+    height: 250px;
+
+}
+
+.float-rigth {
+    float: right;    
+
+}
+
+.float-left {
+    float: left;
+ 
+}
+
+.image-final {
+    display: flex;
+    background-size: cover;
+    width: 100%;
+}
+
